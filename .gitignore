@@ -1,0 +1,11 @@
+data/
+scratch/
+plots/
+*.Rmd
+*.pdf
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.Rproj.user
+yelp.Rproj
+.RData
